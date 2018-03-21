@@ -1,0 +1,2 @@
+C:\Github\COMP305_Lab5\COMP305_Lab5\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Github\COMP305_Lab5\COMP305_Lab5\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
